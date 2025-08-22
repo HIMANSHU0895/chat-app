@@ -12,7 +12,6 @@ Lightweight and easy to deploy
 🛠️ Tech Stack
 Backend: Node.js, Express, Socket.IO
 Frontend: HTML, CSS, JavaScript
-License: MIT License
 
 📂 Project Structure
 project/ │── public/ # Static frontend files (HTML, CSS, JS) │── server.js # Main server file │── package.json # Project dependencies │── .gitignore # Files to be ignored by Git
